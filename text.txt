@@ -1,0 +1,15 @@
+сайт/
+├── сайт/
+│   ├── index.html          ← ЭТОТ ФАЙЛ
+│   ├── gallery.html
+│   ├── about.html
+│   ├── privacy.html
+│   ├── sitemap.html
+│   ├── form.php
+│   ├── style.css (для формы)
+│   └── css/
+│       └── style.css       ← ЭТОТ CSS
+└── makeap/
+    ├── index.html
+    ├── 0.jpg
+    └── другие картинки
